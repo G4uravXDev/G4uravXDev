@@ -1,0 +1,162 @@
+﻿<div align="center">
+
+<img height="500" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dg8b54p-18e32f29-9558-4fb9-83af-de94e437053a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGc4YjU0cC0xOGUzMmYyOS05NTU4LTRmYjktODNhZi1kZTk0ZTQzNzA1M2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SyPiDufMtJ7ea9vIP44qfmUh3gwv8xa9fEg3dUkBrH8" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://www.linkedin.com/in/anubhavxdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gauravnayyar8603@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://g4uravxn4yyar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://discord.com/users/1184466463113891894"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=anubhavxdev&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## 👋 About Me
+
+```typescript
+const anubhav = {
+  name:       "Gaurav Nayyar",
+  role:       "Software Developer & AI Enthusiast",
+  location:   "India 🇮🇳",
+  portfolio:  "https://g4uravxn4yyar.vercel.app/",
+  email:      "gauravnayyar8603@gmail.com",
+
+  currentlyLearning: ["AI/ML", "LLMs & RAG", "System Design", "Rust"],
+  interests:         ["Web Development", "DevOps", "Web3", "Cloud", "Open Source"],
+  askMeAbout:        ["React", "Node.js", "Python", "Full Stack Development"],
+
+  funFact: "I build things, break them, then build them better 🔁"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,php" />
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,springboot,tailwind,bootstrap,vite" />
+</details>
+
+<details open>
+<summary><b>Backend & Databases</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql,firebase,postgres,supabase" />
+</details>
+
+<details open>
+<summary><b>Mobile</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</details>
+
+<details open>
+<summary><b>DevOps & Cloud</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,heroku,cloudflare" />
+</details>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./img/aws-educate-introduction-to-cloud-101 (1).png" width="180" alt="AWS Educate - Introduction to Cloud 101" /><br/>
+      <sub><b>AWS Educate: Cloud 101</b></sub>
+    </td>
+    <td align="center">
+      <img src="./img/github-foundations (1).png" width="180" alt="GitHub Foundations" /><br/>
+      <sub><b>GitHub Foundations</b></sub>
+    </td>
+    <td align="center">
+      <img src="./img/OCI2024FNDCFA.jpg" width="180" alt="Oracle Cloud Infrastructure 2024 Foundations" /><br/>
+      <sub><b>OCI 2024 Foundations</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=G4uravXDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=G4uravXDev&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4uravXDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="40%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=G4uravXDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="./img/github-timeline-G4uravXDev-1773410432275.png" alt="Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=G4uravXDev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+### ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- <img src="./img/G4uravXDev-space-shooter.gif" alt="Space Shooter — built by G4uravXDev" /> -->
+
+<br/>
+
+**⭐ Star my repos if you find them useful! Feel free to connect and collaborate.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+</div>
