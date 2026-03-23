@@ -48,7 +48,7 @@ const anubhav = {
 <details open>
 <summary><b>Frontend</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,springboot,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" />
 </details>
 
 <details open>
@@ -66,7 +66,7 @@ const anubhav = {
 <details open>
 <summary><b>DevOps & Cloud</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,heroku,cloudflare" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,cloudflare,figma" />
 </details>
 
 ---
@@ -78,7 +78,7 @@ const anubhav = {
 <table>
   <tr>
     <td align="center">
-      <img src="./img/aws-educate-introduction-to-cloud-101 (1).png" width="180" alt="AWS Educate - Introduction to Cloud 101" /><br/>
+      <img src="./img/aws.png" width="180" alt="AWS Educate - Introduction to Cloud 101" /><br/>
       <sub><b>AWS Educate: Cloud 101</b></sub>
     </td>
     <td align="center">
@@ -86,7 +86,7 @@ const anubhav = {
       <sub><b>GitHub Foundations</b></sub>
     </td>
     <td align="center">
-      <img src="./img/OCI2024FNDCFA.jpg" width="180" alt="Oracle Cloud Infrastructure 2024 Foundations" /><br/>
+      <img src="./img/oracel.png" width="180" alt="Oracle Cloud Infrastructure 2024 Foundations" /><br/>
       <sub><b>OCI 2024 Foundations</b></sub>
     </td>
   </tr>
@@ -123,7 +123,7 @@ const anubhav = {
 
 <div align="center">
 
-<img src="./img/github-timeline-G4uravXDev-1773410432275.png" alt="Contribution Graph" width="100%" />
+<img src="./img/github-timeline-G4uravXDev-1774285662398.png" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -139,13 +139,13 @@ const anubhav = {
 
 ---
 
-### ✍️ Dev Quote of the Day
+<!-- ### ✍️ Dev Quote of the Day
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+</div> -->
 
 ---
 
@@ -157,6 +157,6 @@ const anubhav = {
 
 **⭐ Star my repos if you find them useful! Feel free to connect and collaborate.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=55,44,77&height=75&section=footer&animation=twinkling" />
 
 </div>
