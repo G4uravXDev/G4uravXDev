@@ -100,22 +100,22 @@ const gaurav = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=G4uravXDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=c9d1d9&icon_color=ffa500&include_all_commits=true&count_private=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=G4uravXDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=c9d1d9&icon_color=ffa500&include_all_commits=true&count_private=true" /> -->
 <img src="https://streak-stats.demolab.com?user=G4uravXDev&theme=dark&short_numbers=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=G4uravXDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=c9d1d9&icon_color=ffa500&include_all_commits=true&count_private=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=G4uravXDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa500&text_color=c9d1d9&icon_color=ffa500&include_all_commits=true&count_private=true" /> -->
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=G4uravXDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
 
-</div>
+</div> -->
 
 ---
 
@@ -133,7 +133,7 @@ const gaurav = {
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=G4uravXDev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="./img/image copy.png" alt="Contribution Graph" width="100%" />
 
 </div>
 
