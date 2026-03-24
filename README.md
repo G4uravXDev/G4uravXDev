@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;AI+%26+ML+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;The%20highest%20form%20of%20intelligence%2C+The%20lowest%20form%20of%20documentation+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/anubhavxdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nayyar-gaurav/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gauravnayyar8603@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://g4uravxn4yyar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://discord.com/users/1184466463113891894"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/users/761460571517222913"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=G4uravXDev&style=for-the-badge&color=red&label=PROFILE+VIEWS" />
